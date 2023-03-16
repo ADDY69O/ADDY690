@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm ADITYA</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy69o&label=Profile%20views&color=0e75b6&style=flat" alt="addy69o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy69o" alt="addy69o" /></a> </p>
+<img align="right" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966" >
+
 
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/ADDY69O/mern-ecommerce)
 
