@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_350_1400/0/1641996122854?e=1684368000&v=beta&t=XSzKFuJFWJoKY1OPqxFOcf1M1I2-p32oB0lboQF_6QQ)
+
 <h1 align="center">Hi 👋, I'm ADITYA</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
